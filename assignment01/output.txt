@@ -1,0 +1,217 @@
+
+TESTS FOR Computer.java:
+Lenovo, Intel Core i5-7400, 16GB Memory, 1.1TB Solid State Drive, Price: $800.00 
+Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Hard Drive, Price: $300.00 
+Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Solid State Drive, Price: $300.00 
+Lenovo, Intel Core i5-7400, 16GB Memory, 1.1TB Hard Drive, Price: $800.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1997-09-20, Maine, New York, USA
+Date and place of birth: 1959-03-13, Dunmore, Pennsylvania, USA
+Date and place of birth: 1959-03-13, Endwell, New York, USA
+Date and place of birth: 1989-11-30, Berlin, Germany
+Date and place of birth: 1999-11-30, Toronto, Canada
+false
+false
+true
+true
+
+TESTS FOR StreetUSAddress.java:
+454 Ashley Road
+Maine, NY 13802
+
+TESTS FOR StreetUSAddress.java:
+454 Ashley Road
+Maine, NY 13802
+
+TESTS FOR StreetUSAddress.java:
+454 Ashley Road
+Maine, NY 13802
+
+TESTS FOR StreetUSAddress.java:
+454 Ashley Road
+Maine, NY 13802
+
+TESTS FOR StreetUSAddress.java:
+454 Ashley Road
+Maine, NY 13802
+
+TESTS FOR StreetUSAddress.java:
+454 Ashley Road
+Maine, NY 13802
+
+TESTS FOR StreetUSAddress.java:
+454 Ashley Road
+Maine, NY 13802
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR Person.java:
+John Johnson (987654321),
+Date and place of birth: Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR Person.java:
+John Johnson (987654321),
+Date and place of birth: Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR Person.java:
+John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR Person.java:
+John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR Person.java:
+John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR Person.java:
+John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR Person.java:
+John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+Computers: [Lenovo, Intel Core i5-7400, 16GB Memory, 1.1TB Solid State Drive, Price: $800.00 , Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Hard Drive, Price: $300.00 , Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Solid State Drive, Price: $300.00 , Lenovo, Intel Core i5-7400, 16GB Memory, 1.1TB Hard Drive, Price: $800.00 ]
+Computer List, Owner: John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+Computers: [Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Hard Drive, Price: $300.00 , Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Solid State Drive, Price: $300.00 ]
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+Computers: [Lenovo, Intel Core i5-7400, 16GB Memory, 1.1TB Solid State Drive, Price: $800.00 , Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Hard Drive, Price: $300.00 , Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Solid State Drive, Price: $300.00 , Lenovo, Intel Core i5-7400, 16GB Memory, 1.1TB Hard Drive, Price: $800.00 ]
+Computer List, Owner: John Johnson (987654321),
+Date and place of birth: 1999-11-30, Toronto, Canada
+123 Main Street
+Apt B
+Manchester, CT 06042
+Computers: [Lenovo, Intel Core i3-6100, 20GB Memory, 800GB Hard Drive, Price: $300.00 , Lenovo, Intel Core i5-7400, 16GB Memory, 1.1TB Hard Drive, Price: $800.00 ]
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+true
+true
+
+TESTS FOR SimpleDate.java:
+true
+true
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+true
+true
+
+TESTS FOR SimpleDate.java:
+true
+true
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+false
+false
+
+TESTS FOR SimpleDate.java:
+true
+false
+
+TESTS FOR SimpleDate.java:
+true
+false
+
+TESTS FOR SimpleDate.java:
+true
+true
+
+TESTS FOR SimpleDate.java:
+true
+false
